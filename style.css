@@ -1,0 +1,12 @@
+#dropzone {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    inset: 0;
+}
+
+#dropzone.dragover {
+    background-color: grey;
+}
